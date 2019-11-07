@@ -14,6 +14,3 @@ class Stark(GotCharacter):
 
     def die(self):
         self.is_alive = False
-
-a = Stark("Arya", True)
-a.print_house_words

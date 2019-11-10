@@ -37,6 +37,6 @@ case $1 in
 		remove_python
 		;;
 	*)
-		echo "Usage: ./installer.sh [install-python  | remove-python]"
+		echo "Usage: ./installer.sh [install-python | remove-python]"
 		;;
 esac
